@@ -22,4 +22,4 @@ Run the following command to push this image to your newly created AWS repositor
 
 docker push 805498960122.dkr.ecr.us-east-1.amazonaws.com/deeproot/http-backend
 
-Visit the public DNS to view our app! Mine is ec2-34-238-27-100.compute-1.amazonaws.com/
+Visit the public DNS to view app is ec2-34-238-27-100.compute-1.amazonaws.com/
