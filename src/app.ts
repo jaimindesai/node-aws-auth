@@ -30,7 +30,7 @@ app.use(
     });
 
     app.listen(port, '0.0.0.0', () => {
-      console.log(`Media server is running on port ${port}`);
+      console.log(`HTTP Server is running on port ${port}`);
     });
   } catch (error) {
     console.log('ERROR', 'Closing......', error);
