@@ -1,0 +1,10 @@
+Makefile
+.git
+.gitignore
+.dockerignore
+Dockerfile*
+*~
+*.log
+node_modules
+docker-compose.*
+logs/*
